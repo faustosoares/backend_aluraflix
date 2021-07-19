@@ -1,0 +1,28 @@
+{
+  "name": "backend_aluraflix",
+  "version": "1.0.0",
+  "description": "Sistema criado no Challenge Backend Alura",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faustosoares/backend_aluraflix.git"
+  },
+  "keywords": [
+    "api",
+    "filmes",
+    "rest",
+    "backend"
+  ],
+  "author": "Fausto Soares",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faustosoares/backend_aluraflix/issues"
+  },
+  "homepage": "https://github.com/faustosoares/backend_aluraflix#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
